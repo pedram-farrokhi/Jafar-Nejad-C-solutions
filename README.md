@@ -1,4 +1,4 @@
-## 🚀 Project Title | Jafar-Nejad-C-solutions  
+## 🚀 Jafar-Nejad-C-solutions  
 
 # 📖 About  
 
