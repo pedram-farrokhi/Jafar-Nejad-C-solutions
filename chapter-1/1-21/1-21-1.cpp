@@ -4,7 +4,8 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main() 
+{
     int x, y;
     cout << "Enter x and y: ";
     cin >> x >> y; //Takes 2 numbers (x, y)
