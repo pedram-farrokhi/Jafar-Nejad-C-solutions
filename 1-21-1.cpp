@@ -1,4 +1,4 @@
-//تمرین ۱ فصل ۱ : برنامه ای بنویسید که دو مقدار  صحیح خ و غ را از ورودی بخواند و و مشخص کند خ مضربی از غ هست یا خیر  ؟ 
+//تمرین ۱ فصل ۱ : برنامه ای بنویسید که دو مقدار  صحیح ایکس و ایگرگ را از ورودی بخواند و و مشخص کند ایکس مضربی از ایگرگ هست یا خیر  ؟ 
 //Exercise 1 Chapter 1: Write a program that reads two integers x and γ from the input and determines whether x is a multiple of γ ? 
 
 #include <iostream>
