@@ -6,5 +6,5 @@
 ***
 ![book cover](https://github.com/user-attachments/assets/49310247-fc44-4daa-947e-67f21ec19150)
 ***
-![C++](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/pedram-farrokhi/Jafar-Nejad-C-solutions)
