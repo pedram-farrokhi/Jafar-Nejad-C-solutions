@@ -1,6 +1,6 @@
-## 🚀 Project Title | Jafar-Nejad-C-solutions
+## 🚀 Project Title | Jafar-Nejad-C-solutions  
 
-# 📖 About 
+# 📖 About  
 
 **Answers to questions at the end and inside the book C++ by Jafarnejad Qomi**     
 **Book version** : Sixth edition-2022  
