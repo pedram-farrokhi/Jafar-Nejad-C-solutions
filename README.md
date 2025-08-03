@@ -1,6 +1,6 @@
 # 🚀 Jafar-Nejad-C-solutions  
 
-## 📖 About  
+<h2 style="border-bottom: none !important;">📖 About</h2> 
 
 **Answers to questions at the end and inside the book C++ by Jafarnejad Qomi**     
 **Book version** : Sixth edition-2022  
