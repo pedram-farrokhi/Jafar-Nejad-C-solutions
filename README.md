@@ -3,7 +3,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/pedram-farrokhi/Jafar-Nejad-CPP-solutions)
 ![Visitors](./VISITORS.md)
-![Visitors](https://img.shields.io/badge/Visitors-1234-blue)
+
 <h2 style="border-bottom: none !important;">📖 About</h2> 
 
 **Answers to questions at the end and inside the book C++ by Jafarnejad Qomi**     
