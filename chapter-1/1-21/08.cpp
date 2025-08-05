@@ -1,5 +1,5 @@
-//
-//
+//با توجه به مقادیر زیر مقدار ایگرگ چند است 
+//Given the following values, what is the value of Y ?
 
 #include <iostream>
 using namespace std;
