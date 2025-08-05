@@ -1,4 +1,4 @@
-# 🚀 Jafar-Nejad-C++-solutions  
+# 🚀 Jafar-Nejad- C++ -solutions  
 
 <h2 style="border-bottom: none !important;">📖 About</h2> 
 
