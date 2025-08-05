@@ -12,4 +12,4 @@
 
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/pedram-farrokhi/Jafar-Nejad-C-solutions)  
+![GitHub Repo Size](https://img.shields.io/github/repo-size/pedram-farrokhi/Jafar-Nejad-CPP-solutions)  
